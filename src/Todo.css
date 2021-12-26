@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+h1,h3,h4 {
+  padding: 0;
+  margin: 0;
+}
+
+label {
+  position: absolute;
+  right: -7%;
+  top: 50%;
+}
+
+
+.image {
+  width: 80px;
+  display:inline-block !important;
+}
+
+.image img {
+  display:inline-block !important;
+  border-bottom: none !important;
+}
+
+.info {
+    display:inline-block !important;
+    text-align: center;
+    padding-left:12px;
+    position: absolute;
+    top: 17%;
+}
+
+.info h1 {
+  padding-bottom: 35px;
+  font-size: 25px;
+}
+
+.card {
+      display:inline-block !important;
+      width: 350px !important;
+}
